@@ -1,4 +1,4 @@
-                                                           Professional self-assessment:
+                                                          Professional self-assessment:
 
 Following my classes across the course of study and creating this ePortfolio have allowed me to demonstrate my abilities as well as my knowledge of software design and engineering, data structures and algorithms, and databases. I've also received valuable knowledge and experience in privacy, teamwork, and dealing with stakeholders. In this ePortfolio, I've been prepared to demonstrate my programming competence in C++, Java, and SQL.
 
@@ -10,7 +10,7 @@ The database course enhanced my knowledge of databases and security. This cours
                                                         
    For this ePortfolio, I chose three separate artifacts, one for every group that was included. Of obviously, I might have selected a single artifact to demonstrate improvements with for every category, but I experienced that employing three distinct ones would be an effective way to divide it up and demonstrate my abilities and knowledge of each of the three areas of software design and engineering, data structures and algorithms, and databases. I had a good time completing my portfolio and I'm planning in the future to keep enhancing the artifacts into more complex software.   
 
-                                                                 The three artifacts 
+                                                            The three artifacts 
                                                         
                                                         
                                                         [Artifact 1: Software Design & Engineering]     
