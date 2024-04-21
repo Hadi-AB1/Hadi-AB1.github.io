@@ -12,4 +12,6 @@ I discovered that, at least superficially, the two languages are fairly comparab
 The big enhancement that I did for this artifact besides changing the script from C++ to Java. The advantages of the improvement I made are listed below. Putting in place a user-friendly GUI, also a lovely format for the output. Incorporating sophisticated query features like GPA ranges and surname wildcards. giving the individual the ability to add and remove courses. Rely just on JRE and no additional external environments or plugins. Occasionally, the UGMS uses checkboxes or messaging windows to trigger warnings.
 
 
+                                                    Artifact II: Data Structure & Algorithms
 
+                                                    
