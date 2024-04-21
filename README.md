@@ -1,4 +1,4 @@
-Professional self-assessment:
+                                                           Professional self-assessment:
 
 Following my classes across the course of study and creating this ePortfolio have allowed me to demonstrate my abilities as well as my knowledge of software design and engineering, data structures and algorithms, and databases. I've also received valuable knowledge and experience in privacy, teamwork, and dealing with stakeholders. In this ePortfolio, I've been prepared to demonstrate my programming competence in C++, Java, and SQL.
 
