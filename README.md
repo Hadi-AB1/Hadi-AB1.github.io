@@ -1,8 +1,8 @@
                                                         Artifact 1: Software Design & Engineering     
                                                         https://github.com/Hadi-AB1/Hadi-AB1.github.io/tree/main/Software%20design%20%26%20Engineering%20
                                                         
-
-The code review:  https://www.youtube.com/watch?v=kwCecwakV_E      https://youtu.be/KbT2ZRmS3vk
+ 
+The code review:                   https://www.youtube.com/watch?v=kwCecwakV_E                          https://youtu.be/KbT2ZRmS3vk
 
 
                                                             
@@ -18,7 +18,7 @@ The big enhancement that I did for this artifact besides changing the script fro
                                                     Artifact II: Data Structure & Algorithms      
                                                     https://github.com/Hadi-AB1/Hadi AB1.github.io/tree/main/Data%20Structure%20%26%20Algorithm%20
                                                     
-  The code review: https://youtu.be/lKUpwpxLtIk
+  The code review:                                   https://youtu.be/lKUpwpxLtIk
 
             The Zoo Monitor System Program is the artifact that was chosen for the algorithms and data structure category. The objective of this program is to create a system for verification that controls permissions and verification for admins and zookeeper clients. As a component of the computer science seminar IT-145, the software application was conceptualized, created, and developed. The software is created in the programming language known as Java and runs on a machine with a terminal as an independent program. This artifact was chosen because it required comprehension of an application algorithm made up of two primary systems, an authentication & authorization system, and components for a system of surveillance that were enhanced. The users ought to only see information relevant to their role after they log into the application in question. The artifact is made up of architectural elements for user credential-based authentication and authorization into the monitor system as well as responsibility for the user's interactions with various module screens and actions depending on their position inside the monitor network.
  
@@ -31,7 +31,7 @@ The source code is consistently formatted correctly, has a clear organization, a
                                                             Artifact III: Database 
                                                             https://github.com/Hadi-AB1/Hadi-AB1.github.io/tree/main/Database%20
                                                             
-The code review:  https://youtu.be/zFWZ7CvPMG8
+The code review:                      https://youtu.be/zFWZ7CvPMG8
   
   I've decided to improve a MySQL database from the DAD-220 class as the artifact. Content from a database had to be added, updated, deleted, and pulled for this undertaking. SQL was used for that, and the use of the command line was needed to carry out the necessary operations. I decided to improve this project by utilizing Python to provide a graphical user interface and SQLite to get the information. I had little to no understanding of how Python and SQLite interacted when I began this project, so it was enjoyable and gratifying. It wasn't easy at first, as I had to spend a lot of time researching how to utilize SQLite in Python, but eventually, I got the hang of it and had the ability to add practically every function I wanted. While working on this project, I ran into a few problems. I began by making extremely straightforward software that exported the list of items to a label for the person using it to see. Whenever the users launched the application or made modifications to the database, they needed to click a button to modify the items. It's not optimal, as I soon found out; an ongoing view of the database's contents would be far more ideal. In order to make it easier for users to choose and update elements in their program, I created a treeview functionality.  There were a number of challenges with constructing this treeview that functioned with SQL data, including proper updates and information transmission across the tree and database. I opted to have the database be updated regularly after performing changes. I also changed it so that when the user doubles-clicks a choice in the treeview, it automatically generates the textboxes, allowing the users to perform quick adjustments.
   
