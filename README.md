@@ -30,7 +30,7 @@ The database course enhanced my knowledge of databases and security. This cours
                                                         
                                                         
                                                       Artifact 1: Software Design & Engineering 
-           [link]  (https://github.com/Hadi-AB1/Hadi-AB1.github.io/tree/main/Software%20design%20%26%20Engineering%20)
+           link  https://github.com/Hadi-AB1/Hadi-AB1.github.io/tree/main/Software%20design%20%26%20Engineering%20
                                                         
 
 The code review:           https://www.youtube.com/watch?v=kwCecwakV_E            https://youtu.be/KbT2ZRmS3vk
