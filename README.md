@@ -1,4 +1,5 @@
                                                           Professional self-assessment:
+                                                          --------------------------------------
 
 Following my classes across the course of study and creating this ePortfolio have allowed me to demonstrate my abilities as well as my knowledge of software design and engineering, data structures and algorithms, and databases. I've also received valuable knowledge and experience in privacy, teamwork, and dealing with stakeholders. In this ePortfolio, I've been prepared to demonstrate my programming competence in C++, Java, and SQL.
 
@@ -12,6 +13,7 @@ The database course enhanced my knowledge of databases and security. This cours
 
 
    Course outcomes: 
+-----------------------------
 
    1- I enhanced my security procedures to create collaborative settings for various audiences and promote managerial choices in computer science. Security measures that I used to Ensure user confidentiality and safety when exchanging data for decision-making purposes in my application. I added the ability to execute the application from many workstations on the same network, allowing it to reach a wider audience.
 
@@ -23,7 +25,7 @@ The database course enhanced my knowledge of databases and security. This cours
 
   5- I established a security mindset in order to foresee adversarial abuses in software structures and concepts, reduce design flaws, and guarantee the safety and confidentiality of information and assets. This includes carrying out password hashing for secure storage of passwords prior to incorporating it into the database and safeguarding login information for users.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             The three artifacts 
                                                         
                                                         
@@ -43,11 +45,11 @@ I discovered that, at least superficially, the two languages are fairly comparab
 
 The big enhancement that I did for this artifact besides changing the script from C++ to Java. The advantages of the improvement I made are listed below. Putting in place a user-friendly GUI, also a lovely format for the output. Incorporating sophisticated query features like GPA ranges and surname wildcards. giving the individual the ability to add and remove courses. Rely just on JRE and no additional external environments or plugins. Occasionally, the UGMS uses checkboxes or messaging windows to trigger warnings.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     [Artifact II: Data Structure & Algorithms]      
                                                     https://github.com/Hadi-AB1/Hadi AB1.github.io/tree/main/Data%20Structure%20%26%20Algorithm%20
                                                     
-  [The code review:]              https://youtu.be/lKUpwpxLtIk
+  [The code review:]                  https://youtu.be/lKUpwpxLtIk
 
             The Zoo Monitor System Program is the artifact that was chosen for the algorithms and data structure category. The objective of this program is to create a system for verification that controls permissions and verification for admins and zookeeper clients. As a component of the computer science seminar IT-145, the software application was conceptualized, created, and developed. The software is created in the programming language known as Java and runs on a machine with a terminal as an independent program. This artifact was chosen because it required comprehension of an application algorithm made up of two primary systems, an authentication & authorization system, and components for a system of surveillance that were enhanced. The users ought to only see information relevant to their role after they log into the application in question. The artifact is made up of architectural elements for user credential-based authentication and authorization into the monitor system as well as responsibility for the user's interactions with various module screens and actions depending on their position inside the monitor network.
  
@@ -57,6 +59,7 @@ Through importing from outside animal or habitat files, individuals can now list
 
 The source code is consistently formatted correctly, has a clear organization, and includes line breaks. According to best practices and their application in computer programming, we make use of the correct syntax and norms. The programmable data structures that are created allow for the effective use of the recorded value of variables in other class methods. Since they describe operations being carried out on a certain thing, names for methods are verbs. Dividing into methods and classes, as well as how to categorize each one and its placement when integrated into the program, results in substantial problems. We modified the software to handle problems as a result of this classification approach by figuring out if it operates through the operating system's terminal shell or via the NetBeans outputting line. In order to get our application coding to the desired point, we experimented with several code blocks to demonstrate a straightforward GUI with an attractive display. I think that’s one of the difficulties that I have to deal with while working on the enhancements for this artifact. 
 
+     ------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
                                                             [Artifact III: Database] 
                                                             https://github.com/Hadi-AB1/Hadi-AB1.github.io/tree/main/Database%20
                                                             
