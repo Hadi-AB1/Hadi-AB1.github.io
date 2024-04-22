@@ -10,6 +10,20 @@ The database course enhanced my knowledge of databases and security. This cours
                                                         
    For this ePortfolio, I chose three separate artifacts, one for every group that was included. Of obviously, I might have selected a single artifact to demonstrate improvements with for every category, but I experienced that employing three distinct ones would be an effective way to divide it up and demonstrate my abilities and knowledge of each of the three areas of software design and engineering, data structures and algorithms, and databases. I had a good time completing my portfolio and I'm planning in the future to keep enhancing the artifacts into more complex software.   
 
+
+   Course outcomes: 
+
+   1- I enhanced my security procedures to create collaborative settings for various audiences and promote managerial choices in computer science. Security measures that I used to Ensure user confidentiality and safety when exchanging data for decision-making purposes in my application. I added the ability to execute the application from many workstations on the same network, allowing it to reach a wider audience.
+
+   2- I effectively presented professional-quality oral, written, and visual presentations that are consistent, competent in technology, and tailored for particular audiences and situations. I improved my communication consistency and framework by outlining the improvements project and addressing the rationale behind my choice of application before providing the modifications. 
+
+   3- I successfully implemented technological solutions that deliver benefits and achieve industry-specific goals using creative methodologies, abilities, and technologies. The following enhancements were completed. 
+   
+  4- I created and assessed computing solutions based on algorithmic concepts, computer science techniques, and acceptable standards. I managed trade-offs in design choices and completed improvements to the artifacts. 
+
+  5- I established a security mindset in order to foresee adversarial abuses in software structures and concepts, reduce design flaws, and guarantee the safety and confidentiality of information and assets. This includes carrying out password hashing for secure storage of passwords prior to incorporating it into the database and safeguarding login information for users.
+
+
                                                             The three artifacts 
                                                         
                                                         
